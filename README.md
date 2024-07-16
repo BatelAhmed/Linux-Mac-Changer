@@ -61,5 +61,5 @@ Feel free to fork this project, submit pull requests, or report issues.
 
 # Errors etc..
 
-Please let me know if you run into any errors, you can DM me on my github profile.
+Please let me know if you run into any errors, you can DM me on my github profile or create a ticket in the Issues Panel. Thank you
 - Mention error and what OS you are running on.
