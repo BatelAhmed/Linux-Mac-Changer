@@ -58,3 +58,8 @@ Changing MAC addresses can disrupt network connectivity and may be against netwo
 # Contributing
 
 Feel free to fork this project, submit pull requests, or report issues.
+
+# Errors etc..
+
+Please let me know if you run into any errors, you can DM me on my github profile.
+- Mention error and what OS you are running on.
