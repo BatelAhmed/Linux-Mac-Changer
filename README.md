@@ -21,7 +21,7 @@ This is a simple Python script that allows you to change the MAC address of a ne
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/mac_changer.git
+    git clone https://github.com/BatelAhmed/mac_changer.git
     ```
 
 2. Navigate to the project directory:
